@@ -1,16 +1,5 @@
 # ecommerce_design_app
 
-A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![eCommerce2SS](https://user-images.githubusercontent.com/86453565/200143232-e7806cde-0af7-4512-a998-01538650749e.jpeg)
+![eCommerce1SS](https://user-images.githubusercontent.com/86453565/200143234-c026c037-e8a6-42f4-964c-dd7872418cde.jpeg)
